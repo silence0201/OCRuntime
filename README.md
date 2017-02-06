@@ -1,4 +1,8 @@
 # OCRuntime
+
+![Language](https://img.shields.io/badge/language-objc-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)  
+
 OCRuntime
 
 From [RuntimeBrowser](https://github.com/nst/RuntimeBrowser)
